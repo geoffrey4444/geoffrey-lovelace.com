@@ -64,5 +64,9 @@ Our work has also been supported in the past by the following external grants:
 
 <a name="Movies">
 ## Movies
+  
+### What merging black holes look like
+
+The source of LIGO's first observation of gravitational waves was a pair of merging black holes. This movie shows what the merging black holes would look like up close, in slow motion (about 100 times slower than real time). Credit: SXS Collaboration.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zt8Z_uzG71o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
