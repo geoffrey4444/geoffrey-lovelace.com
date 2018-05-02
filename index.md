@@ -1,6 +1,11 @@
 ---
 title: Geoffrey Lovelace
 ---
-# Geoffrey Lovelace
 
-This is Geoffrey Lovelace's home page.
+I am an associate professor in the [http://physics.fullerton.edu/](Department of Physics) at [http://www.fullerton.edu](California State University, Fullerton). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Joshua Smith, and Al Agnew in Cal State Fullerton's [http://physics.fullerton.edu/GWPAC/]("Gravitational Wave Physics and Astronomy Center (GWPAC)"), and I also am a member of the [http://www.black-holes.org/](Simulating eXtreme Spacetimes (SXS) collaboration) and the [http://ligo.org/](LIGO Scientific Collaboration). 
+
+[http://news.fullerton.edu/gravitational-waves/](GWPAC) and the SXS collaboration are contributing to [https://www.ligo.caltech.edu/news/ligo20160211](LIGO's discovery of gravitational waves).
+
+At Cal State Fullerton, my research goals focus on modeling sources of gravitational waves using numerical relativity. Gravitational waves—ripples of spacetime curvature—are opening a new window on the universe. The Advanced Laser Interferometer Gravitational-wave Observatory (Advanced LIGO) has observed the [http://arxiv.org/abs/arXiv:1602.03837](first) gravitational waves passing through Earth, which came from merging black holes. My students and I use [http://physics.fullerton.edu/gwpac/news/highlights/172-orca-upgrade](supercomputers) to simulate colliding black holes using the [http://black-holes.org/SpEC.html]("Spectral Einstein Code (SpEC)"), and we are particularly interested in modeling  [http://arxiv.org/abs/arXiv:1412.1803](merging black holes that spin nearly as fast as possible) and in [http://arxiv.org/abs/arXiv:1607.05377](responding to LIGO observations). I recently have begun using supercomputers to [https://arxiv.org/abs/1707.07774](model thermal noise) in LIGO mirrors, with the goal of helping to improve the sensitivity of next-generation detectors, to explore [https://arxiv.org/abs/1804.03704](how well gravitatioanl-wave detectors can measure rapid black-hole spins), and to contribute to the development of [http://github.com/sxs-collaboration/spectre](SpECTRE), the SXS Collaboration's next-generation numerical-relativity code.
+
+
