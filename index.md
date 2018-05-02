@@ -2,7 +2,7 @@
 title: Geoffrey Lovelace
 ---
 
-| [Contact] | [About me] | [Research] | [Publications] | [CV] | [Support] | [Movies] |
+| [Contact](#Contact) | [About-me](#About me) | [Research](#Research) | [Publications](#Publications) | [CV](#CV) | [Support](#Support) | [Movies](#Movies) |
 
 ## Contact
 <img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="250">
@@ -55,3 +55,6 @@ Our work has also been supported in the past by the following external grants:
 
 * [NSF grant PHY-1307489](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1307489&HistoricalAwards=false). RUI: Numerical Simulations of Merging Black Holes and Neutron Stars.
 
+## Movies
+
+Movies will be posted here.
