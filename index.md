@@ -2,6 +2,23 @@
 title: Geoffrey Lovelace
 ---
 
+## Contact
+
+**Office**
+McCarthy Hall 601B
+
+**Email**
+[glovelace@fullerton.edu](mailto:glovelace@fullerton.edu)
+
+**Mailing Address**
+Department of Physics, MH-611
+California State University, Fullerton
+800 North State College Blvd.
+Fullerton, CA 92834
+ 
+**Phone**
++1 (657) 278-7501
+
 ## About me
 <img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="200">
 I am an associate professor in the [Department of Physics](http://physics.fullerton.edu/) at [California State University, Fullerton](http://www.fullerton.edu). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Joshua Smith, and Al Agnew in Cal State Fullerton's [Gravitational Wave Physics and Astronomy Center (GWPAC)](http://physics.fullerton.edu/GWPAC/), and I also am a member of the [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/) and the [LIGO Scientific Collaboration](http://ligo.org/). 
