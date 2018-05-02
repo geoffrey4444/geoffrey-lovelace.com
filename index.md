@@ -20,4 +20,23 @@ My up-to-date publication list is available through [Google Scholar](https://sch
 
 You can download my [full CV](assets/CV.pdf). You can read free preprints of my publications on [the arXiv](https://arxiv.org/search/?searchtype=author&query=%22Lovelace%2C+Geoffrey%22&size=200&order=-announced_date_first).
 
+## Support
+
+My students and I are grateful to thank the [National Science Foundation](http://www.nsf.gov/), the [Research Corporation for Science Advancement](http://rescorp.org/), [the Louis Stokes Alliance for Minority Participation](http://www.fullerton.edu/lsamp/), [California State University, Fullerton](http://www.fullerton.edu), [Dan Black](http://news.fullerton.edu/2017su/CSU-Dan-Black%20.aspx), and Nancy Goodhue-McWilliams. Our research is supported in part by the following external grants:
+
+* NSF grant [PHY-1708035](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1708035). Collaborative Research: LSC Center for Coatings Research.
+
+* NSF grant [PHY-1654359](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654359). CAREER: Computational Gravitational-Wave Science and Education in the Era of First Observations.
+
+* NSF grant [PHY-1606522](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1606522&HistoricalAwards=false). RUI: Computational Gravitational-Wave Research for the Era of First Observations.
+
+* NSF grant [AST-1559694](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1559694&HistoricalAwards=false). The CSUF-Syracuse partnership for inclusion of underrepresented groups in gravitational-wave astronomy.
+
+Our work has also been supported in the past by the following external grants:
+
+* NSF grant [PHY-1429873](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1429873&HistoricalAwards=false). MRI: Acquisition of a High-Performance Computer Cluster for Gravitational-Wave Astronomy with Advanced LIGO.
+
+* [Multi-investigator Cottrell College Science Award](http://physics.fullerton.edu/gwpac/news/highlights/167-jocelyn-geoffrey-rescorp). Developing a numerical injection analysis pipeline for gravitational waves from merging black holes and neutron stars.
+
+* [NSF grant PHY-1307489](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1307489&HistoricalAwards=false). RUI: Numerical Simulations of Merging Black Holes and Neutron Stars.
 
