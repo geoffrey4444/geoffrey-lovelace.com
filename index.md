@@ -3,7 +3,7 @@ title: Geoffrey Lovelace
 ---
 
 | [Contact](#Contact) | [About me](#About) | [Research](#Research) | [Publications](#Publications) | 
-| [CV](#CV) | [Support](#Support) | [Movies](#Movies) |
+| [CV](#CV) | [Support](#Support) | [Movies](#Movies) | Search (#Search) |
 
 <a name="Contact">
 ## Contact 
@@ -71,3 +71,19 @@ Our work has also been supported in the past by the following external grants:
 The source of LIGO's first observation of gravitational waves was a pair of merging black holes. This movie shows what the merging black holes would look like up close, in slow motion (about 100 times slower than real time). Credit: SXS Collaboration.
 
 <iframe width="350" height="197" src="https://www.youtube.com/embed/Zt8Z_uzG71o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a name="Search">
+## Search
+Search this site (powered by [Google](http://www.google.com)).
+<script>
+  (function() {
+    var cx = '004225925451245191150:jtg9_7ol2mg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
