@@ -86,4 +86,4 @@ Search this site (powered by [Google](http://www.google.com)).
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<gcse:searchbox-only></gcse:searchbox-only>
