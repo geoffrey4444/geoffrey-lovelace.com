@@ -70,4 +70,4 @@ Our work has also been supported in the past by the following external grants:
 
 The source of LIGO's first observation of gravitational waves was a pair of merging black holes. This movie shows what the merging black holes would look like up close, in slow motion (about 100 times slower than real time). Credit: SXS Collaboration.
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/Zt8Z_uzG71o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="350" height="197" src="https://www.youtube.com/embed/Zt8Z_uzG71o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
