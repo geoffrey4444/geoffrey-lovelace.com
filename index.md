@@ -2,6 +2,8 @@
 title: Geoffrey Lovelace
 ---
 
+| [Contact] | [About me] | [Research] | [Publications] | [CV] | [Support] | [Movies] |
+
 ## Contact
 <img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="250">
 **Office**<br> McCarthy Hall 601B
