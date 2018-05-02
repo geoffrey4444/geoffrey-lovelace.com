@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Geoffrey Lovelace
 ---
 # Geoffrey Lovelace
