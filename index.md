@@ -3,7 +3,7 @@ title: Geoffrey Lovelace
 ---
 
 ## Contact
-<img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="200">
+<img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="250">
 **Office**<br> McCarthy Hall 601B
 
 **Email** [glovelace@fullerton.edu](mailto:glovelace@fullerton.edu)
