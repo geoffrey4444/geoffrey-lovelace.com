@@ -3,7 +3,7 @@ title: Geoffrey Lovelace
 ---
 
 | [Contact](#Contact) | [About me](#About) | [Research](#Research) | [Publications](#Publications) | 
-| [CV](#CV) | [Support](#Support) | [Movies](#Movies) | Search (#Search) |
+| [CV](#CV) | [Support](#Support) | [Movies](#Movies) | [Search](#Search) |
 
 <a name="Contact">
 ## Contact 
