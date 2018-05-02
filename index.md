@@ -4,20 +4,17 @@ title: Geoffrey Lovelace
 
 ## Contact
 
-**Office**<br>
-McCarthy Hall 601B
+**Office**<br> McCarthy Hall 601B
 
-**Email**<br>
-[glovelace@fullerton.edu](mailto:glovelace@fullerton.edu)
+**Email** [glovelace@fullerton.edu](mailto:glovelace@fullerton.edu)
+
+**Phone** +1 (657) 278-7501
 
 **Mailing Address**<br>
 Department of Physics, MH-611<br>
 California State University, Fullerton<br>
 800 North State College Blvd.<br>
 Fullerton, CA 92834<br>
- 
-**Phone**
-+1 (657) 278-7501
 
 ## About me
 <img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="200">
