@@ -4,7 +4,8 @@ title: Geoffrey Lovelace
 
 | [Contact](#Contact) | [About me](#About) | [Research](#Research) | [Publications](#Publications) | [CV](#CV) | [Support](#Support) | [Movies](#Movies) |
 
-## Contact <a name="Contact">
+<a name="Contact">
+## Contact 
 <img align="right" src="assets/GeoffreyLovelace_Website(1).jpg" width="250">
 **Office**<br> McCarthy Hall 601B
 
@@ -18,25 +19,30 @@ California State University, Fullerton<br>
 800 North State College Blvd.<br>
 Fullerton, CA 92834<br>
 
-## About me <a name="About">
+<a name="About">
+## About me 
   
 I am an associate professor in the [Department of Physics](http://physics.fullerton.edu/) at [California State University, Fullerton](http://www.fullerton.edu). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Joshua Smith, and Al Agnew in Cal State Fullerton's [Gravitational Wave Physics and Astronomy Center (GWPAC)](http://physics.fullerton.edu/GWPAC/), and I also am a member of the [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/) and the [LIGO Scientific Collaboration](http://ligo.org/). 
 
 [GWPAC](http://news.fullerton.edu/gravitational-waves/) and the SXS collaboration are contributing to [LIGO's discovery of gravitational waves](https://www.ligo.caltech.edu/news/ligo20160211).
 
-## Research <a name="Research">
+<a name="Research">
+## Research 
   
 At Cal State Fullerton, my research goals focus on modeling sources of gravitational waves using numerical relativity. Gravitational waves—ripples of spacetime curvature—are opening a new window on the universe. The Advanced Laser Interferometer Gravitational-wave Observatory (Advanced LIGO) has observed the [first gravitational waves](http://arxiv.org/abs/arXiv:1602.03837) passing through Earth, which came from merging black holes. My students and I use [supercomputers](http://physics.fullerton.edu/gwpac/news/highlights/172-orca-upgrade) to simulate colliding black holes using the [Spectral Einstein Code (SpEC)](http://black-holes.org/SpEC.html), and we are particularly interested in modeling  [merging black holes that spin nearly as fast as possible](http://arxiv.org/abs/arXiv:1412.1803) and in [responding to LIGO observations](http://arxiv.org/abs/arXiv:1607.05377). I recently have begun using supercomputers to [model thermal noise](https://arxiv.org/abs/1707.07774) in LIGO mirrors, with the goal of helping to improve the sensitivity of next-generation detectors, to explore [how well gravitatioanl-wave detectors can measure rapid black-hole spins](https://arxiv.org/abs/1804.03704), and to contribute to the development of [SpECTRE](http://github.com/sxs-collaboration/spectre), the SXS Collaboration's next-generation numerical-relativity code.
 
-## Publications <a name="Publications">
+<a name="Publications">
+## Publications
   
 My up-to-date publication list is available through [Google Scholar](https://scholar.google.com/citations?hl=en&user=NmbTrBEAAAAJ&view_op=list_works&sortby=pubdate) and [INSPIRES](https://inspirehep.net/author/profile/G.Lovelace.1).
 
-## CV <a name="CV">
+<a name="CV">
+## CV 
   
 You can download my [full CV](assets/CV.pdf). You can read free preprints of my publications on [the arXiv](https://arxiv.org/search/?searchtype=author&query=%22Lovelace%2C+Geoffrey%22&size=200&order=-announced_date_first).
 
-## Support <a name="Support">
+<a name="Support">
+## Support 
   
 My students and I are grateful to thank the [National Science Foundation](http://www.nsf.gov/), the [Research Corporation for Science Advancement](http://rescorp.org/), [the Louis Stokes Alliance for Minority Participation](http://www.fullerton.edu/lsamp/), [California State University, Fullerton](http://www.fullerton.edu), [Dan Black](http://news.fullerton.edu/2017su/CSU-Dan-Black%20.aspx), and Nancy Goodhue-McWilliams. Our research is supported in part by the following external grants:
 
@@ -56,6 +62,7 @@ Our work has also been supported in the past by the following external grants:
 
 * [NSF grant PHY-1307489](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1307489&HistoricalAwards=false). RUI: Numerical Simulations of Merging Black Holes and Neutron Stars.
 
+<a name-"Movies">
 ## Movies
 
 Movies will be posted here.
