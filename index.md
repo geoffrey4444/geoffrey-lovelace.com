@@ -40,7 +40,7 @@ My up-to-date publication list is available through my [full CV](assets/CV.pdf),
 <a name="CV">
 ## CV 
   
-You can download my [full CV](assets/CV.pdf). You can read free preprints of my publications on [the arXiv](https://arxiv.org/search/?searchtype=author&query=%22Lovelace%2C+Geoffrey%22&size=200&order=-announced_date_first).
+You can download my [full CV](assets/CV.pdf) in PDF format, including links to my publications.
 
 <a name="Support">
 ## Support 
