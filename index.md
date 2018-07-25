@@ -1,6 +1,5 @@
 ---
 title: Geoffrey Lovelace
-menus: main
 ---
 
 | [Contact](#Contact) | [About me](#About) | [Research](#Research) | [Publications](#Publications) | 
