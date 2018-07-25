@@ -2,6 +2,6 @@ highligher: rogue
 name: Geoffrey Lovelace
 url: "http://geoffrey-lovelace.com"
 lsi: false
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 permalink: pretty
