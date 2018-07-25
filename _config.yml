@@ -5,3 +5,5 @@ lsi: false
 theme: jekyll-theme-midnight
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 permalink: pretty
+plugins: 
+- jekyll-menus
