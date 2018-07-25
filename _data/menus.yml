@@ -1,0 +1,30 @@
+---
+main:
+  - title: Home
+    identifier: home
+    url: /index.md
+  - title: Contact
+    identifier: contact
+    url: /index.md#Contact
+  - title: About me
+    identifier: about
+    url: /index.md#About
+  - title: Research
+    identifier: research
+    url: /index.md#Research
+  - title: Publications
+    identifier: publications
+    url: /index.md#Publications
+  - title: CV
+    identifier: cv
+    url: /index.md#CV
+  - title: Support
+    identifier: support
+    url: /index.md#Support
+  - title: Movies
+    identifier: movies
+    url: /index.md#Movies
+  - title: Search
+    identifier: search
+    url: /index.md#Search
+---
