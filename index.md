@@ -35,7 +35,7 @@ At Cal State Fullerton, my research goals focus on modeling sources of gravitati
 <a name="Publications">
 ## Publications
   
-My up-to-date publication list is available through [Google Scholar](https://scholar.google.com/citations?hl=en&user=NmbTrBEAAAAJ&view_op=list_works&sortby=pubdate) and [INSPIRES](https://inspirehep.net/author/profile/G.Lovelace.1).
+My up-to-date publication list is available through my [full CV](assets/CV.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=NmbTrBEAAAAJ&view_op=list_works&sortby=pubdate) and [INSPIRES](https://inspirehep.net/author/profile/G.Lovelace.1).
 
 <a name="CV">
 ## CV 
