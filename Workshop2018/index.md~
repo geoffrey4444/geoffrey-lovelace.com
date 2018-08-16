@@ -29,22 +29,22 @@ Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
 
 ## Participants
 
-Ivette Ayala
-Christian Batach
-Jesse Cardona
-Madeline Ceccia
-Johana Chazaro Cortes
-Benjamin Garcia
-Alexis Guardado
-Hina Hasan
-Maria Gabriela Jaimes Pinzon
-Brian Lin
-Gabriela Maciel
-Francis Martinez
-Jake Macedo
-Ricardo Pena
-Jazmine Robledo
-Peter Romera-Messina
-Michael Rueter
-Shutong Zhou
+* Ivette Ayala
+* Christian Batach
+* Jesse Cardona
+* Madeline Ceccia
+* Johana Chazaro Cortes
+* Benjamin Garcia
+* Alexis Guardado
+* Hina Hasan
+* Maria Gabriela Jaimes Pinzon
+* Brian Lin
+* Gabriela Maciel
+* Francis Martinez
+* Jake Macedo
+* Ricardo Pena
+* Jazmine Robledo
+* Peter Romera-Messina
+* Michael Rueter
+* Shutong Zhou
 
