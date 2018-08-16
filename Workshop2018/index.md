@@ -22,7 +22,7 @@ Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
 ## Links
 
   * [colab.research.google.com](https://colab.research.google.com) - Run Python notebooks on Google's supercomputers for free
-  * [mybinder.org](https://mybinder.org) - Run Python notebooks that are already uploaded to [github.com](github.com) and also UNIX terminals for free
+  * [mybinder.org](https://mybinder.org) - Run Python notebooks that are already uploaded to [github.com](https://github.com) and also UNIX terminals for free
   * [notebooks.azure.com](https://notebooks.azure.com) - Run Python notebooks and UNIX terminals on Microsoft's supercomputers for free
   * [PyCBC Tutorials](https://github.com/gwastro/PyCBC-Tutorials) - Tutorials introducing gravitational-wave data analysis using Python notebooks
   * [LIGO Open Science Center](https://losc.ligo.org) - Learn about LIGO science, including playing with real LIGO data using python 
