@@ -2,6 +2,8 @@
 title: 2018 Workshop on High-Performance Computing and Gravitational Waves
 ---
 
+# 2018 Workshop on High-Performance Computing and Gravitational Waves
+
 These are materials from the 2018 [Cal State
 Fullerton](https://www.fullerton.edu) Workshop on High-Performance
 Computing and Gravitational Waves. I led the first of these workshops
