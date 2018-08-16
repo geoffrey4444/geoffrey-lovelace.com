@@ -28,6 +28,7 @@ Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
   * [notebooks.azure.com](https://notebooks.azure.com) - Run Python notebooks and UNIX terminals on Microsoft's supercomputers for free
   * [PyCBC Tutorials](https://github.com/gwastro/PyCBC-Tutorials) - Tutorials introducing gravitational-wave data analysis using Python notebooks
   * [LIGO Open Science Center](https://losc.ligo.org) - Learn about LIGO science, including playing with real LIGO data using python 
+  * [ParaView](https://paraview.org) - Software to visualize 3D data
 
 ## Participants
 
