@@ -32,24 +32,27 @@ Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
   * [LIGO Open Science Center](https://losc.ligo.org) - Learn about LIGO science, including playing with real LIGO data using python 
   * [ParaView](https://paraview.org) - Software to visualize 3D data
 
-## Participants
+## Participants and movies of black hole collisions
+
+The movies show the black-hole horizons, just after two black holes merged into one, 
+according to supercomputer calculations by our workshop participants.
 
 * Ivette Ayala
-* Christian Batach
+* Christian Batach - [Movie](https://youtu.be/FZpDmGKjz0U)
 * Jesse Cardona
 * Madeline Ceccia
 * Johana Chazaro Cortes
 * Benjamin Garcia
-* Alexis Guardado
+* Alexis Guardado - [Movie](https://youtu.be/mjgGqZMcLts)
 * Hina Hasan
-* Maria Gabriela Jaimes Pinzon
+* Maria Gabriela Jaimes Pinzon - [Movie](https://youtu.be/XondyrNYhLA)
 * Brian Lin
 * Gabriela Maciel
-* Francis Martinez
+* Francis Martinez - [Movie](https://youtu.be/F8JLqTocYyc)
 * Jake Macedo
 * Ricardo Pena
 * Jazmine Robledo
 * Peter Romera-Messina
-* Michael Rueter
-* Shutong Zhou
+* Michael Rueter - [Movie](https://youtu.be/5jXL2JKWMUA)
+* Shutong Zhou - [Movie](https://youtu.be/uN-OyJhkxqU)
 

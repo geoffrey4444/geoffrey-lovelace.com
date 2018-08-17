@@ -45,11 +45,11 @@ according to supercomputer calculations by our workshop participants.
 * Benjamin Garcia
 * Alexis Guardado - [Movie](https://youtu.be/mjgGqZMcLts)
 * Hina Hasan
-* Maria Gabriela Jaimes Pinzon - [Movie](https://youtu.be/XondyrNYhLA)
+* Maria Gabriela Jaimes Pinzon - [Movie](https://youtu.be/21ekvs9lEJk)
 * Brian Lin
 * Gabriela Maciel
 * Francis Martinez - [Movie](https://youtu.be/F8JLqTocYyc)
-* Jake Macedo
+* Jake Macedo - [Movie](https://youtu.be/XondyrNYhLA)
 * Ricardo Pena
 * Jazmine Robledo
 * Peter Romera-Messina
