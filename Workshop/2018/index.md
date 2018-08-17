@@ -11,7 +11,7 @@ at Cal State Fullerton's [Gravitational-Wave Physics and Astronomy
 Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
 2018.
 
-<img width="400" href="6A09BF4D-3264-4152-90B2-A13EF4C424E4.jpeg">
+![group photo](href="6A09BF4D-3264-4152-90B2-A13EF4C424E4.jpeg)
 
 ## Slides
 
