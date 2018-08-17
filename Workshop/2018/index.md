@@ -6,9 +6,9 @@ title: 2018 Workshop on High-Performance Computing and Gravitational Waves
 
 These are materials from the 2018 [Cal State
 Fullerton](https://www.fullerton.edu) Workshop on High-Performance
-Computing and Gravitational Waves. I led the first of these workshops
+Computing and Gravitational Waves. I designed and led this workshop, held 
 at Cal State Fullerton's [Gravitational-Wave Physics and Astronomy
-Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
+Center](https://physics.fullerton.edu/gwpac), on August 13, 2018 -- August 17,
 2018.
 
 ![group photo](6A09BF4D-3264-4152-90B2-A13EF4C424E4.jpeg)
