@@ -40,7 +40,7 @@ according to supercomputer calculations by our workshop participants.
 * Ivette Ayala - [Movie](https://youtu.be/Z_eMxnXYkU8)
 * Christian Batach - [Movie](https://youtu.be/gTUdQ9RlE_w)
 * Jesse Cardona - 
-* Madeline Ceccia - 
+* Madeline Ceccia - [Movie](https://youtu.be/LT7YatHvS7I)
 * Johana Chazaro Cortes - [Movie](https://youtu.be/z3UxxbVKpLU)
 * Benjamin Garcia - [Movie](https://youtu.be/n7KpnD4nCD4)
 * Alexis Guardado - [Movie](https://youtu.be/mjgGqZMcLts)
