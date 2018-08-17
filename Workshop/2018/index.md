@@ -19,7 +19,7 @@ Center](https://physics.fullerton.edu/gwpac) on August 13, 2018 -- August 17,
 * [Dr. Jocelyn Read's slides on gravitational waves](ReadWorkshop2018Slides.pdf)
 * [CSUF undergraduate researcher Samuel Rodriguez's talk](SamRodriguezTalk.pdf)
 * [CSUF undergraduate researcher Jennifer Sanchez's talk](JenniferSanchezTalk.pdf)
-* [Maria (Masha) Okounkova's talk](Fullerton_Okounkova.pdf)
+* [Maria (Masha) Okounkova's talk](fullerton_okounkova.pdf)
 * [Dr. Marissa Walker's talk](walker_lasso_aug16.pdf)
 
 ## Cheat sheats
