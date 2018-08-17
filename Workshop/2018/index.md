@@ -43,7 +43,7 @@ according to supercomputer calculations by our workshop participants.
 
 * Ivette Ayala - [Movie](https://youtu.be/Z_eMxnXYkU8)
 * Christian Batach - [Movie](https://youtu.be/gTUdQ9RlE_w)
-* Jesse Cardona - 
+* Jesse Cardona - [Movie](https://www.youtube.com/watch?v=QiodwsOxOkg)
 * Madeline Ceccia - [Movie](https://youtu.be/LT7YatHvS7I)
 * Johana Chazaro Cortes - [Movie](https://youtu.be/z3UxxbVKpLU)
 * Benjamin Garcia - [Movie](https://youtu.be/n7KpnD4nCD4)
@@ -56,7 +56,6 @@ according to supercomputer calculations by our workshop participants.
 * Jake Macedo - [Movie](https://youtu.be/XondyrNYhLA)
 * Ricardo Pena - [Movie](https://youtu.be/BIS4A2qtTHs)
 * Jazmine Robledo - [Movie](https://youtu.be/iQ1OEPW30ZM)
-* Peter Romera-Messina - 
 * Michael Rueter - [Movie](https://youtu.be/5jXL2JKWMUA)
 * Shutong Zhou - [Movie](https://youtu.be/uN-OyJhkxqU)
 
