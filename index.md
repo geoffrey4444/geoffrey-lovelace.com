@@ -52,6 +52,8 @@ You can download my [full CV](assets/CV.pdf) in PDF format, including links to m
   
 My students and I are grateful to thank the [National Science Foundation](http://www.nsf.gov/), the [Research Corporation for Science Advancement](http://rescorp.org/), [the Louis Stokes Alliance for Minority Participation](http://www.fullerton.edu/lsamp/), [California State University, Fullerton](http://www.fullerton.edu), [Dan Black](http://news.fullerton.edu/2017su/CSU-Dan-Black%20.aspx), and Nancy Goodhue-McWilliams. Our research is supported in part by the following external grants:
 
+* NSF grant [PHY-1836734](https://nsf.gov/awardsearch/showAward?AWD_ID=1836734&HistoricalAwards=false). Collaborative Research: The Next Generation of Gravitational Wave Detectors.
+
 * NSF grant [PHY-1708035](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1708035). Collaborative Research: LSC Center for Coatings Research.
 
 * NSF grant [PHY-1654359](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654359). CAREER: Computational Gravitational-Wave Science and Education in the Era of First Observations.
