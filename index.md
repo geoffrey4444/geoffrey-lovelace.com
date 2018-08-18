@@ -68,7 +68,7 @@ Our work has also been supported in the past by the following external grants:
 
 * [NSF grant PHY-1307489](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1307489&HistoricalAwards=false). RUI: Numerical Simulations of Merging Black Holes and Neutron Stars.
 
-<a name="Teaching>
+<a name="Teaching">
 ## Teaching
 
 I have taught the following courses:
