@@ -3,7 +3,7 @@ title: Geoffrey Lovelace
 ---
 
 | [Contact](#Contact) | [About me](#About) | [Research](#Research) | [Publications](#Publications) | 
-| [CV](#CV) | [Support](#Support) | [Movies](#Movies) | [Search](#Search) |
+| [CV](#CV) | [Support](#Support) | [Teaching](#Teaching) | [Movies](#Movies) |
 
 <a name="Contact">
 ## Contact 
@@ -67,6 +67,23 @@ Our work has also been supported in the past by the following external grants:
 * [Multi-investigator Cottrell College Science Award](http://physics.fullerton.edu/gwpac/news/highlights/167-jocelyn-geoffrey-rescorp). Developing a numerical injection analysis pipeline for gravitational waves from merging black holes and neutron stars.
 
 * [NSF grant PHY-1307489](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1307489&HistoricalAwards=false). RUI: Numerical Simulations of Merging Black Holes and Neutron Stars.
+
+<a name="Teaching>
+## Teaching
+
+I have taught the following courses:
+
+* Astronomy 444, "Applications of Gravitation," a new course for advanced undergraduates that I am piloting, focusing on some applications of general relativity: black holes, gravitational waves, and cosmology.
+
+* Physics 211, "Elementary Physics," an algebra-based introduction to mechanics and thermodynamics.
+
+* Physics 211L, "Elementary Physics Laboratory", the laboratory co-requisite to Physics 211.
+
+* Physics 225, "Fundamental Physics," a calculus-based introduction to mechanics. I have [redesigned](https://contentbuilder.merlot.org/toolkit/html/snapshot.php?id=97541425467973) this course using a flipped classroom, supported in part by the [CSU Sustaining Success](courseredesign.csuprojects.org/wp/sustaining-success/) and [Proven Course Resdesign](courseredesign.csuprojects.org/wp/proven/) redesign programs.
+
+* Physics 300, "Survey of Mathematical Physics", a course that bridges the under-division and upper-division undergraduate physics major courses, introducing key mathematical tools while emphasizing how to think about math like a physicist.
+
+* Physics 520, "Analytical Mechanics," a master's-level course in classical mechanics and special relativity.
 
 <a name="Movies">
 ## Movies
