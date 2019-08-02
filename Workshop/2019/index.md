@@ -51,6 +51,7 @@ are participating in the workshop:
 * Marlo Morales
 * An Nguyen
 * Isaac Ortiz
+* Marisol Pacheco
 * Mark Rangel
 * Robin Romero
 * Sandra Serrano
