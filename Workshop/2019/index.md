@@ -15,6 +15,7 @@ Center](https://physics.fullerton.edu/gwpac), on August 19, 2019 -- August 23,
 
 * [Slides from 2019 Day 1](Workshop2019SlidesDay1.pdf)
 * [Slides from 2019 Day 2](Workshop2019SlidesDay2.pdf)
+* [Slides from 2019 Day 2](Workshop2019SlidesDay3.pdf)
 * [Slides from 2018](Workshop2018Slides.pdf)
 * [Dr. Jocelyn Read's slides on gravitational waves from 2018](ReadWorkshop2018Slides.pdf)
 
