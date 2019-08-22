@@ -4,6 +4,8 @@ title: 2019 Workshop on High-Performance Computing and Gravitational Waves
 
 # 2019 Workshop on High-Performance Computing and Gravitational Waves
 
+![2019 Workshop on Gravitational Waves: Group Photo](Workshop2019GroupPhoto.jpg)
+
 These are materials from the 2019 [Cal State
 Fullerton](https://www.fullerton.edu) Workshop on High-Performance
 Computing and Gravitational Waves. The workshop is scheduled to be held 
