@@ -4,15 +4,12 @@ title: 2021 Workshop on High-Performance Computing and Gravitational Waves
 
 # 2021 Workshop on High-Performance Computing and Gravitational Waves
 
-![2021 Workshop on Gravitational Waves: Group Photo](Workshop2019GroupPhoto.jpg)
-
 These are materials from the 2021 [Cal State
 Fullerton](https://www.fullerton.edu) Workshop on High-Performance
 Computing and Gravitational Waves.
 
 The workshop is scheduled to be held
-online through Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitational-Wave Physics and Astronomy](https://physics.fullerton.edu/gwpac), on August 16, 2021 -- August 20,
-2021. The zoom link will be provided to accepted applicants in advance of the workshop.
+online through Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitational-Wave Physics and Astronomy](https://physics.fullerton.edu/gwpac), on August 16, 2021 -- August 20, 2021. The zoom link will be provided to accepted applicants in advance of the workshop.
 
 ## Applying
 
