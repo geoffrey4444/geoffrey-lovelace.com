@@ -1,0 +1,47 @@
+---
+title: 2021 Workshop on High-Performance Computing and Gravitational Waves
+---
+
+# 2021 Workshop on High-Performance Computing and Gravitational Waves
+
+![2021 Workshop on Gravitational Waves: Group Photo](Workshop2019GroupPhoto.jpg)
+
+These are materials from the 2021 [Cal State
+Fullerton](https://www.fullerton.edu) Workshop on High-Performance
+Computing and Gravitational Waves.
+
+The workshop is scheduled to be held
+online through Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitational-Wave Physics and Astronomy](https://physics.fullerton.edu/gwpac), on August 16, 2021 -- August 20,
+2021. The zoom link will be provided to accepted applicants in advance of the workshop.
+
+## Applying
+
+To apply for the 2021 workshop, please contact [Marianne Smith](mailto:marsmith@citruscollege.edu). If you have questions about the workshop, please don't hesitate to contact [me](mailto:glovelace@fullerton.edu).
+
+## Slides from 2019
+
+* [Slides from 2019 Day 1](../2019/Workshop2019SlidesDay1.pdf)
+* [Slides from 2019 Day 2](../2019/Workshop2019SlidesDay2.pdf)
+* [Slides from 2019 Day 3](../2019/Workshop2019SlidesDay3.pdf)
+* [Slides from 2019 Day 4](../2019/Workshop2019SlidesDay4.pdf)
+
+## Cheat sheats
+
+  * [Python Cheat Sheet by Eric Matthes](PythonCheatSheetMatthes.pdf)
+  * [UNIX Cheat Sheet by FOSSWire](UnixCheatSheet.pdf)
+
+## Links
+  * [Notebook to explore data from SXS Catalog of simulations of merging black holes](https://mybinder.org/v2/gh/sxs-collaboration/catalog_tools/master?filepath=Examples%2Fsxs_bbh_example.ipynb) - This notebook will let you interact with data from different simulations in the SXS Catalog. It will show you how to make plots of the black-hole masses, and it will show you how to plot and turn into a sound the emitted gravitational waves.
+
+  * [colab.research.google.com](https://colab.research.google.com) - Run Python notebooks on Google's supercomputers for free
+  * [mybinder.org](https://mybinder.org) - Run Python notebooks that are already uploaded to [github.com](https://github.com) and also UNIX terminals for free
+  * [PyCBC Tutorials](https://github.com/gwastro/PyCBC-Tutorials) - Tutorials introducing gravitational-wave data analysis using Python notebooks
+  * [LIGO Open Science Center](https://losc.ligo.org) - Learn about LIGO science, including playing with real LIGO data using python
+  * [ParaView](https://paraview.org) - Software to visualize 3D data
+
+## Participants
+
+The following students from [Citrus College](https://www.citruscollege.edu)
+are participating in the workshop:
+
+* Participants to be announced
