@@ -15,6 +15,10 @@ online through Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravi
 
 To apply for the 2021 workshop, please contact [Marianne Smith](mailto:marsmith@citruscollege.edu). If you have questions about the workshop, please don't hesitate to contact [me](mailto:glovelace@fullerton.edu).
 
+## Slides from 2021
+
+* [Slides from 2021 Days 1 and 2](Workshop2021Day1and2.pdf)
+
 ## Slides from 2019
 
 * [Slides from 2019 Day 1](../2019/Workshop2019SlidesDay1.pdf)
@@ -30,6 +34,7 @@ To apply for the 2021 workshop, please contact [Marianne Smith](mailto:marsmith@
 ## Links
   * [Notebook to explore data from SXS Catalog of simulations of merging black holes](https://mybinder.org/v2/gh/sxs-collaboration/catalog_tools/master?filepath=Examples%2Fsxs_bbh_example.ipynb) - This notebook will let you interact with data from different simulations in the SXS Catalog. It will show you how to make plots of the black-hole masses, and it will show you how to plot and turn into a sound the emitted gravitational waves.
 
+  * [cocalc.com](https://cocalc.com) - Run Python notebooks collaboratively for a monthly fee
   * [colab.research.google.com](https://colab.research.google.com) - Run Python notebooks on Google's supercomputers for free
   * [mybinder.org](https://mybinder.org) - Run Python notebooks that are already uploaded to [github.com](https://github.com) and also UNIX terminals for free
   * [PyCBC Tutorials](https://github.com/gwastro/PyCBC-Tutorials) - Tutorials introducing gravitational-wave data analysis using Python notebooks
