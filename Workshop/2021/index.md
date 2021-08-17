@@ -46,4 +46,11 @@ To apply for the 2021 workshop, please contact [Marianne Smith](mailto:marsmith@
 The following students from [Citrus College](https://www.citruscollege.edu)
 are participating in the workshop:
 
-* Participants to be announced
+* Natnael Berhanu
+* Ayah Halabi
+* Ali Kattee
+* Andres Sebastian Miguel
+* Cesilia Negrete
+* Grace Ortiz
+* Richard Reyes
+* Timothy Tolle
