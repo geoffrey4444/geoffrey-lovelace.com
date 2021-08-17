@@ -23,7 +23,7 @@ Fullerton, CA 92834<br>
 <a name="About">
 ## About me
 
-I am an associate professor in the [Department of Physics](http://physics.fullerton.edu/) at [California State University, Fullerton](http://www.fullerton.edu). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Josh Smith, and Al Agnew in Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitatinal-Wave Physics and Astronomy (GWPAC)](http://physics.fullerton.edu/gwpac/), and I also am a member of the [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/) and the [LIGO Scientific Collaboration](http://ligo.org/).
+I am a professor in the [Department of Physics](http://physics.fullerton.edu/) at [California State University, Fullerton](http://www.fullerton.edu). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Josh Smith, and Al Agnew in Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitatinal-Wave Physics and Astronomy (GWPAC)](http://physics.fullerton.edu/gwpac/), and I also am a member of the [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/) and the [LIGO Scientific Collaboration](http://ligo.org/).
 
 [GWPAC](http://news.fullerton.edu/gravitational-waves/) and the SXS collaboration are contributing to [LIGO's discovery of gravitational waves](https://www.ligo.caltech.edu/news/ligo20160211).
 
