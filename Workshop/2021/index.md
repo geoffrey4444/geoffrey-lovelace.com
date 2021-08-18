@@ -18,6 +18,7 @@ To apply for the 2021 workshop, please contact [Marianne Smith](mailto:marsmith@
 ## Slides from 2021
 
 * [Slides from 2021 Days 1 and 2](Workshop2021Day1and2.pdf)
+* [Slides from 2021 Day 3](Workshop2021Day3.pdf)
 
 ## Slides from 2019
 
