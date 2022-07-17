@@ -23,16 +23,16 @@ Fullerton, CA 92834<br>
 <a name="About">
 ## About me
 
-I am a professor in the [Department of Physics](http://physics.fullerton.edu/) at [California State University, Fullerton](http://www.fullerton.edu). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Josh Smith, and Al Agnew in Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitatinal-Wave Physics and Astronomy (GWPAC)](http://physics.fullerton.edu/gwpac/), and I also am a member of the [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/) and the [LIGO Scientific Collaboration](http://ligo.org/).
+I am a professor in the [Department of Physics](http://physics.fullerton.edu/) at [California State University, Fullerton](http://www.fullerton.edu). My current research interests focus on using numerical relativity to model sources of gravitational waves, such as merging black holes. I join professors Jocelyn Read, Josh Smith, and Al Agnew in Cal State Fullerton's [Nicholas and Lee Begovich Center for Gravitational-Wave Physics and Astronomy (GWPAC)](http://physics.fullerton.edu/gwpac/), and I also am a member of the [Simulating eXtreme Spacetimes (SXS) collaboration](http://www.black-holes.org/) and the [LIGO Scientific Collaboration](http://ligo.org/).
 
 [GWPAC](http://news.fullerton.edu/gravitational-waves/) and the SXS collaboration are contributing to [LIGO's discovery of gravitational waves](https://www.ligo.caltech.edu/news/ligo20160211).
 
 <a name="Research">
 ## Research
 
-At Cal State Fullerton, my research goals focus on modeling sources of gravitational waves using numerical relativity. Gravitational waves—ripples of spacetime curvature—are opening a new window on the universe. The Advanced Laser Interferometer Gravitational-wave Observatory (Advanced LIGO) has observed the [first gravitational waves](http://arxiv.org/abs/arXiv:1602.03837) passing through Earth, which came from merging black holes. My students and I use [supercomputers](http://physics.fullerton.edu/gwpac/news/highlights/172-orca-upgrade) to simulate colliding black holes using the [Spectral Einstein Code (SpEC)](http://black-holes.org/SpEC.html), and we are particularly interested in modeling  [merging black holes that spin nearly as fast as possible](http://arxiv.org/abs/arXiv:1412.1803) and in [responding to LIGO observations](http://arxiv.org/abs/arXiv:1607.05377). I recently have begun using supercomputers to [model thermal noise](https://arxiv.org/abs/1707.07774) in LIGO mirrors, with the goal of helping to improve the sensitivity of next-generation detectors, and exploring [how well gravitatioanl-wave detectors can measure rapid black-hole spins](https://arxiv.org/abs/1804.03704).
+At Cal State Fullerton, my research goals focus on modeling sources of gravitational waves using numerical relativity. Gravitational waves—ripples of spacetime curvature—are opening a new window on the universe. The Advanced Laser Interferometer Gravitational-wave Observatory (Advanced LIGO) has observed the [first gravitational waves](http://arxiv.org/abs/arXiv:1602.03837) passing through Earth, which came from merging black holes. My students and I use [supercomputers](http://physics.fullerton.edu/gwpac/news/highlights/172-orca-upgrade) to simulate colliding black holes using the [Spectral Einstein Code (SpEC)](http://black-holes.org/SpEC.html), and we are particularly interested in modeling  [merging black holes that spin nearly as fast as possible](http://arxiv.org/abs/arXiv:1412.1803) and in [responding to LIGO observations](http://arxiv.org/abs/arXiv:1607.05377). I recently have begun using supercomputers to [model thermal noise](https://arxiv.org/abs/1707.07774) in LIGO mirrors, with the goal of helping to improve the sensitivity of next-generation detectors, and exploring [how well gravitational-wave detectors can measure rapid black-hole spins](https://arxiv.org/abs/1804.03704).
 
-I am contributing to the development of [SpECTRE](http://github.com/sxs-collaboration/spectre), the SXS Collaboration's next-generation numerical-relativity code. Jocelyn Read, Josh Smith, and I area also contributing to charting a course for the next generation of gravitational-wave science in the United Sates, looking at concepts like [Cosmic Explorer](cosmicexplorer.org).
+I am contributing to the development of [SpECTRE](http://github.com/sxs-collaboration/spectre), the SXS Collaboration's next-generation numerical-relativity code. Jocelyn Read, Josh Smith, and I am also contributing [Cosmic Explorer](cosmicexplorer.org), a concept for the next gravitational-wave observatory in the United States.
 
 Starting in 2018, I am leading an annual one-week summer
 [workshop](Workshop/2021) that introduces students from local
@@ -42,7 +42,8 @@ computing.
 <a name="Publications">
 ## Publications
 
-My up-to-date publication list is available through my [full CV](assets/CV.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=NmbTrBEAAAAJ&view_op=list_works&sortby=pubdate) and [INSPIRES](https://inspirehep.net/author/profile/G.Lovelace.1).
+My up-to-date publication list is available through my [full CV](assets/CV.pdf), [Google Scholar](https://scholar.google.com/citations?hl=en&user=NmbTrBEAAAAJ&view_op=list_works&sortby=pubdate) and [INSPIRES](https://inspirehep.net/author/profile/G.Lovelace.1). My contributions 
+to SpECTRE are available through [GitHub](https://https://github.com/sxs-collaboration/spectre/commits?author=geoffrey4444).
 
 <a name="CV">
 ## CV
@@ -54,17 +55,19 @@ You can download my [full CV](assets/CV.pdf) in PDF format, including links to m
 
 My students and I are grateful to thank the [National Science Foundation](http://www.nsf.gov/), the [Research Corporation for Science Advancement](http://rescorp.org/), [the Louis Stokes Alliance for Minority Participation](http://www.fullerton.edu/lsamp/), [California State University, Fullerton](http://www.fullerton.edu), [Nicholas and Lee Begovich](http://news.fullerton.edu/2020/02/campaign-gift-begovich/), [Dan Black](http://news.fullerton.edu/2016/04/dan-black-gift/), and Nancy Goodhue-McWilliams. Our research is supported in part by the following external grants:
 
-* NSF grant [PHY-1836734](https://nsf.gov/awardsearch/showAward?AWD_ID=1836734&HistoricalAwards=false). Collaborative Research: The Next Generation of Gravitational Wave Detectors.
-
-* NSF grant [PHY-1708035](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1708035). Collaborative Research: LSC Center for Coatings Research.
+* NSF grant [PHY-2208014](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208014). RUI: Next-Generation Numerical Relativity for Future Gravitational-Wave Observatories.
 
 * NSF grant [PHY-1654359](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1654359). CAREER: Computational Gravitational-Wave Science and Education in the Era of First Observations.
-
-* NSF grant [PHY-1606522](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1606522&HistoricalAwards=false). RUI: Computational Gravitational-Wave Research for the Era of First Observations.
 
 * NSF grant [AST-1559694](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1559694&HistoricalAwards=false). The CSUF-Syracuse partnership for inclusion of underrepresented groups in gravitational-wave astronomy.
 
 Our work has also been supported in the past by the following external grants:
+
+* NSF grant [PHY-1836734](https://nsf.gov/awardsearch/showAward?AWD_ID=1836734&HistoricalAwards=false). Collaborative Research: The Next Generation of Gravitational Wave Detectors.
+
+* NSF grant [PHY-1708035](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1708035). Collaborative Research: LSC Center for Coatings Research.
+
+* NSF grant [PHY-1606522](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1606522&HistoricalAwards=false). RUI: Computational Gravitational-Wave Research for the Era of First Observations.
 
 * NSF grant [PHY-1429873](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1429873&HistoricalAwards=false). MRI: Acquisition of a High-Performance Computer Cluster for Gravitational-Wave Astronomy with Advanced LIGO.
 
