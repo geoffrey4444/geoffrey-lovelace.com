@@ -15,6 +15,9 @@ at Cal State Fullerton, hosted by [Nicholas and Lee Begovich Center for Gravitat
 
 To apply for the 2022 workshop, please contact [Marianne Smith](mailto:marsmith@citruscollege.edu). If you have questions about the workshop, please don't hesitate to contact [me](mailto:glovelace@fullerton.edu).
 
+## Slides from 2022
+* [Slides from 2022 Day 1](2022SlidesDay1.pdf)
+
 ## Slides from 2021
 
 * [Slides from 2021 Days 1 and 2](../2021/Workshop2021Day1and2.pdf)
@@ -46,4 +49,10 @@ To apply for the 2022 workshop, please contact [Marianne Smith](mailto:marsmith@
 The following students from [Citrus College](https://www.citruscollege.edu)
 are participating in the workshop:
 
-* Participants to be announced
+* Fienna Angeline
+* Yushan "Victor" Chen
+* Anthony Diaz
+* Luke Esperiquette
+* Cassandra Guevara
+* Katerina Ramierz
+* Devin Thorpe
