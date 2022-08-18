@@ -18,6 +18,7 @@ To apply for the 2022 workshop, please contact [Marianne Smith](mailto:marsmith@
 ## Slides from 2022
 * [Slides from 2022 Day 1](2022SlidesDay1.pdf)
 * [Slides from 2022 Day 2](2022SlidesDay2.pdf)
+* [Slides from 2022 Day 3](2022SlidesDay3.pdf)
 
 ## Slides from 2021
 
