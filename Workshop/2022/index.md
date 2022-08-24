@@ -1,5 +1,5 @@
 ---
-title: 2021 Workshop on High-Performance Computing and Gravitational Waves
+title: 2022 Workshop on High-Performance Computing and Gravitational Waves
 ---
 
 # 2022 Workshop on High-Performance Computing and Gravitational Waves
@@ -49,12 +49,16 @@ To apply for the 2022 workshop, please contact [Marianne Smith](mailto:marsmith@
 ## Participants
 
 The following students from [Citrus College](https://www.citruscollege.edu)
-are participating in the workshop:
+participated in the workshop. Click to see participants' visualization of the head-on colliding black holes that they simulated on our local high-performance computing cluster, Ocean.
 
-* Fienna Angeline
-* Yushan "Victor" Chen
-* Anthony Diaz
-* Luke Esperiquette
-* Cassandra Guevara
-* Katerina Ramierz
-* Devin Thorpe
+* [Fienna Angeline](https://youtu.be/wX4o1y5Ic4M)
+* [Yushan "Victor" Chen]()
+* [Anthony Diaz](https://youtu.be/H1_7x5DxZys)
+* [Luke Esperiquette]()
+* [Cassandra Guevara](https://youtu.be/Yfu5oReoZFo)
+* [Katerina Ramierz](https://youtu.be/e5hGlJNABPg)
+* [Devin Thorpe](https://youtu.be/mbnxneQvjLo)
+
+Our students toured the campus data center on Thursday during the workshop, standing in front of the Ocean cluster:
+![Data center students photo 1](DataCenterTour1.jpeg | width = 400)
+![Data center students photo 2](DataCenterTour2.jpeg | width = 400)
