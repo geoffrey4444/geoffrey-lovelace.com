@@ -60,5 +60,5 @@ participated in the workshop. Click to see participants' visualization of the he
 * [Devin Thorpe](https://youtu.be/mbnxneQvjLo)
 
 Our students toured the campus data center on Thursday during the workshop, standing in front of the Ocean cluster:
-![Data center students photo 1](DataCenterTour1.jpg | width=400)
-![Data center students photo 2](DataCenterTour2.jpg | width=400)
+![Data center students photo 1](/Workshop/2022/DataCenterTour1.jpg | width=400)
+![Data center students photo 2](/Workshop/2022/DataCenterTour2.jpg | width=400)
